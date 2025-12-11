@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 64 */
+/* New Things Every Day — Da 64 */
 /* Generates a unique hash-like string for today's log */
 
 function dailyLog64() {
